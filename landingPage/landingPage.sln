@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "landingPage", "landingPage\landingPage.csproj", "{A2231A77-10FD-4E31-87AA-FC0B3DACEDDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2231A77-10FD-4E31-87AA-FC0B3DACEDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2231A77-10FD-4E31-87AA-FC0B3DACEDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2231A77-10FD-4E31-87AA-FC0B3DACEDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2231A77-10FD-4E31-87AA-FC0B3DACEDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = landingPage\landingPage.csproj
+	EndGlobalSection
+EndGlobal
